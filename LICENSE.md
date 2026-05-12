@@ -1,4 +1,4 @@
-
+Enhance Monosnap for macOS with Monosnap for macOS ultimate Extension: VM-management & screenshot-tools, the #1 extension. Includes VM-management and screenshot-tools for a
 
 
 
